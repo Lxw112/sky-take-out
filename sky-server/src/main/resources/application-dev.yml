@@ -6,3 +6,4 @@ sky:
     database: sky_take_out
     username: root
     password: 123456
+  #由于隐私，此处删除了阿里云oss的一些数据
